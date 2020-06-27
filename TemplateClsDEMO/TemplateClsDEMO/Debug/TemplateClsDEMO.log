@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\tim\desktop\gituploads\templateclsdemo\templateclsdemo\queue.h(87): warning C4553: '==': result of expression not used; did you intend '='?
+  c:\users\tim\desktop\gituploads\templateclsdemo\templateclsdemo\queue.h(72): note: while compiling class template member function 'T Queue<T>::dequeue(void)'
+          with
+          [
+              T=Profile
+          ]
+  c:\users\tim\desktop\gituploads\templateclsdemo\templateclsdemo\facebook.h(53): note: see reference to function template instantiation 'T Queue<T>::dequeue(void)' being compiled
+          with
+          [
+              T=Profile
+          ]
+  c:\users\tim\desktop\gituploads\templateclsdemo\templateclsdemo\facebook.h(47): note: see reference to class template instantiation 'Queue<Profile>' being compiled
+  TemplateClsDEMO.vcxproj -> C:\Users\Tim\Desktop\GitUploads\TemplateClsDEMO\Debug\TemplateClsDEMO.exe
